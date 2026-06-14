@@ -1,0 +1,4 @@
+clima-bot-telegram
+*.log
+.DS_Store
+.env
